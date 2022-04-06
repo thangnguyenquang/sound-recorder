@@ -8,4 +8,4 @@ screenshots :
 ![a4](https://user-images.githubusercontent.com/88927961/161944017-d13e1e64-b739-4c7c-84dd-47b3c822319c.png)
 
 
-src : https://github.com/dkim0419/SoundRecorder
+Nguồn tham khảo : https://github.com/dkim0419/SoundRecorder
